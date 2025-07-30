@@ -10,7 +10,7 @@ require (
 	github.com/OpenListTeam/sftpd-openlist v1.0.1
 	github.com/OpenListTeam/tache v0.2.0
 	github.com/OpenListTeam/times v0.1.0
-	github.com/OpenListTeam/wopan-sdk-go v0.1.5
+	github.com/OpenListTeam/wopan-sdk-go v0.2.2
 	github.com/ProtonMail/go-crypto v1.3.0
 	github.com/SheltonZhu/115driver v1.1.0
 	github.com/aliyun/aliyun-oss-go-sdk v3.0.2+incompatible
@@ -92,9 +92,9 @@ require (
 	github.com/minio/xxml v0.0.3 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/otiai10/mint v1.6.3 // indirect
-	gopkg.in/go-jose/go-jose.v2 v2.6.3 // indirect
 	github.com/shirou/gopsutil/v4 v4.25.5 // indirect
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
+	gopkg.in/go-jose/go-jose.v2 v2.6.3 // indirect
 )
 
 require (
@@ -129,7 +129,7 @@ require (
 	github.com/ulikunitz/xz v0.5.12 // indirect
 	github.com/yuin/goldmark v1.7.13
 	go4.org v0.0.0-20230225012048-214862532bf5
-	resty.dev/v3 v3.0.0-beta.2 // indirect
+	resty.dev/v3 v3.0.0-beta.3 // indirect
 )
 
 require (
